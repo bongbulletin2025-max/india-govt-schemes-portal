@@ -1,287 +1,1121 @@
-{
-  "schemes": [
-    {
-      "id": 1,
-      "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
-      "category": "Finance",
-      "state": "All India",
-      "apply_link": "https://pmjdy.gov.in"
-    },
-    {
-      "id": 2,
-      "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
-      "category": "Women Welfare",
-      "state": "All India",
-      "apply_link": "https://www.pmuy.gov.in"
-    },
-    {
-      "id": 3,
-      "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
-      "category": "Health",
-      "state": "All India",
-      "apply_link": "https://pmjay.gov.in"
-    },
-    {
-      "id": 4,
-      "name": "Pradhan Mantri Awas Yojana (PMAY) – Gramin & Urban",
-      "category": "Housing",
-      "state": "All India",
-      "apply_link": "https://pmaymis.gov.in"
-    },
-    {
-      "id": 5,
-      "name": "Atal Pension Yojana (APY)",
-      "category": "Pension",
-      "state": "All India",
-      "apply_link": "https://www.npscra.nsdl.co.in/nsdl-atal-pension-yojana.php"
-    },
-    {
-      "id": 6,
-      "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
-      "category": "Agriculture",
-      "state": "All India",
-      "apply_link": "https://pmkisan.gov.in"
-    },
-    {
-      "id": 7,
-      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
-      "category": "Agriculture",
-      "state": "All India",
-      "apply_link": "https://pmfby.gov.in"
-    },
-    {
-      "id": 8,
-      "name": "Digital India Initiative",
-      "category": "Digital/IT",
-      "state": "All India",
-      "apply_link": "https://www.digitalindia.gov.in"
-    },
-    {
-      "id": 9,
-      "name": "Startup India",
-      "category": "Entrepreneurship",
-      "state": "All India",
-      "apply_link": "https://www.startupindia.gov.in"
-    },
-    {
-      "id": 10,
-      "name": "Stand Up India Scheme",
-      "category": "Entrepreneurship",
-      "state": "All India",
-      "apply_link": "https://www.standupmitra.in"
-    },
-    {
-      "id": 11,
-      "name": "Beti Bachao Beti Padhao (BBBP)",
-      "category": "Women & Child",
-      "state": "All India",
-      "apply_link": "https://wcd.nic.in/bbbp-scheme"
-    },
-    {
-      "id": 12,
-      "name": "Sukanya Samriddhi Yojana (SSY)",
-      "category": "Women & Child",
-      "state": "All India",
-      "apply_link": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
-    },
-    {
-      "id": 13,
-      "name": "Swachh Bharat Mission (SBM)",
-      "category": "Sanitation",
-      "state": "All India",
-      "apply_link": "https://swachhbharatmission.gov.in"
-    },
-    {
-      "id": 14,
-      "name": "National Rural Employment Guarantee Scheme (MGNREGA)",
-      "category": "Employment",
-      "state": "All India",
-      "apply_link": "https://nrega.nic.in"
-    },
-    {
-      "id": 15,
-      "name": "National Social Assistance Programme (NSAP)",
-      "category": "Social Welfare",
-      "state": "All India",
-      "apply_link": "https://nsap.nic.in"
-    },
-    {
-      "id": 16,
-      "name": "National Health Mission (NHM)",
-      "category": "Health",
-      "state": "All India",
-      "apply_link": "https://nhm.gov.in"
-    },
-    {
-      "id": 17,
-      "name": "Integrated Child Development Services (ICDS)",
-      "category": "Women & Child",
-      "state": "All India",
-      "apply_link": "https://icds-wcd.nic.in"
-    },
-    {
-      "id": 18,
-      "name": "National Food Security Mission (NFSM)",
-      "category": "Food Security",
-      "state": "All India",
-      "apply_link": "https://nfsm.gov.in"
-    },
-    {
-      "id": 19,
-      "name": "Mid Day Meal Scheme (MDMS)",
-      "category": "Education",
-      "state": "All India",
-      "apply_link": "https://mdm.nic.in"
-    },
-    {
-      "id": 20,
-      "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
-      "category": "Skill Development",
-      "state": "All India",
-      "apply_link": "https://www.pmkvyofficial.org"
-    }
-  ]
-}{
-  "schemes": [
-    {
-      "id": 1,
-      "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
-      "category": "Finance",
-      "state": "All India",
-      "apply_link": "https://pmjdy.gov.in"
-    },
-    {
-      "id": 2,
-      "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
-      "category": "Women Welfare",
-      "state": "All India",
-      "apply_link": "https://www.pmuy.gov.in"
-    },
-    {
-      "id": 3,
-      "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
-      "category": "Health",
-      "state": "All India",
-      "apply_link": "https://pmjay.gov.in"
-    },
-    {
-      "id": 4,
-      "name": "Pradhan Mantri Awas Yojana (PMAY) – Gramin & Urban",
-      "category": "Housing",
-      "state": "All India",
-      "apply_link": "https://pmaymis.gov.in"
-    },
-    {
-      "id": 5,
-      "name": "Atal Pension Yojana (APY)",
-      "category": "Pension",
-      "state": "All India",
-      "apply_link": "https://www.npscra.nsdl.co.in/nsdl-atal-pension-yojana.php"
-    },
-    {
-      "id": 6,
-      "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
-      "category": "Agriculture",
-      "state": "All India",
-      "apply_link": "https://pmkisan.gov.in"
-    },
-    {
-      "id": 7,
-      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
-      "category": "Agriculture",
-      "state": "All India",
-      "apply_link": "https://pmfby.gov.in"
-    },
-    {
-      "id": 8,
-      "name": "Digital India Initiative",
-      "category": "Digital/IT",
-      "state": "All India",
-      "apply_link": "https://www.digitalindia.gov.in"
-    },
-    {
-      "id": 9,
-      "name": "Startup India",
-      "category": "Entrepreneurship",
-      "state": "All India",
-      "apply_link": "https://www.startupindia.gov.in"
-    },
-    {
-      "id": 10,
-      "name": "Stand Up India Scheme",
-      "category": "Entrepreneurship",
-      "state": "All India",
-      "apply_link": "https://www.standupmitra.in"
-    },
-    {
-      "id": 11,
-      "name": "Beti Bachao Beti Padhao (BBBP)",
-      "category": "Women & Child",
-      "state": "All India",
-      "apply_link": "https://wcd.nic.in/bbbp-scheme"
-    },
-    {
-      "id": 12,
-      "name": "Sukanya Samriddhi Yojana (SSY)",
-      "category": "Women & Child",
-      "state": "All India",
-      "apply_link": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
-    },
-    {
-      "id": 13,
-      "name": "Swachh Bharat Mission (SBM)",
-      "category": "Sanitation",
-      "state": "All India",
-      "apply_link": "https://swachhbharatmission.gov.in"
-    },
-    {
-      "id": 14,
-      "name": "National Rural Employment Guarantee Scheme (MGNREGA)",
-      "category": "Employment",
-      "state": "All India",
-      "apply_link": "https://nrega.nic.in"
-    },
-    {
-      "id": 15,
-      "name": "National Social Assistance Programme (NSAP)",
-      "category": "Social Welfare",
-      "state": "All India",
-      "apply_link": "https://nsap.nic.in"
-    },
-    {
-      "id": 16,
-      "name": "National Health Mission (NHM)",
-      "category": "Health",
-      "state": "All India",
-      "apply_link": "https://nhm.gov.in"
-    },
-    {
-      "id": 17,
-      "name": "Integrated Child Development Services (ICDS)",
-      "category": "Women & Child",
-      "state": "All India",
-      "apply_link": "https://icds-wcd.nic.in"
-    },
-    {
-      "id": 18,
-      "name": "National Food Security Mission (NFSM)",
-      "category": "Food Security",
-      "state": "All India",
-      "apply_link": "https://nfsm.gov.in"
-    },
-    {
-      "id": 19,
-      "name": "Mid Day Meal Scheme (MDMS)",
-      "category": "Education",
-      "state": "All India",
-      "apply_link": "https://mdm.nic.in"
-    },
-    {
-      "id": 20,
-      "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
-      "category": "Skill Development",
-      "state": "All India",
-      "apply_link": "https://www.pmkvyofficial.org"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "description": "Financial inclusion program — zero-balance bank accounts, Rupay card and insurance benefits.",
+    "category": "Financial Inclusion",
+    "state": "All India",
+    "applyLink": "https://pmjdy.gov.in"
+  },
+  {
+    "id": 2,
+    "title": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "description": "Health coverage up to ₹5 lakh per family for secondary and tertiary hospitalisation.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://pmjay.gov.in"
+  },
+  {
+    "id": 3,
+    "title": "Pradhan Mantri Awas Yojana (PMAY) - Urban & Gramin",
+    "description": "Affordable housing for eligible beneficiaries in urban and rural areas.",
+    "category": "Housing",
+    "state": "All India",
+    "applyLink": "https://pmaymis.gov.in"
+  },
+  {
+    "id": 4,
+    "title": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "Free LPG connections for women from BPL households to reduce indoor pollution.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://pmuy.gov.in"
+  },
+  {
+    "id": 5,
+    "title": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "description": "Direct income support to farmer families of ₹6,000 per year in three equal instalments.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://pmkisan.gov.in"
+  },
+  {
+    "id": 6,
+    "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance scheme to protect farmers against crop failure.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://pmfby.gov.in"
+  },
+  {
+    "id": 7,
+    "title": "PM SVANidhi (Street Vendor's Atmanirbhar Nidhi)",
+    "description": "Affordable loan facility for street vendors to restart businesses post-COVID.",
+    "category": "Microcredit",
+    "state": "All India",
+    "applyLink": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": 8,
+    "title": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Loans up to ₹10 lakh to non-corporate, non-farm micro and small enterprises.",
+    "category": "Finance",
+    "state": "All India",
+    "applyLink": "https://www.mudra.org.in"
+  },
+  {
+    "id": 9,
+    "title": "Stand Up India",
+    "description": "Facilitates bank loans between ₹10 lakh and ₹1 crore to SC/ST and women entrepreneurs.",
+    "category": "Entrepreneurship",
+    "state": "All India",
+    "applyLink": "https://www.standupmitra.in"
+  },
+  {
+    "id": 10,
+    "title": "Startup India",
+    "description": "Support for startups with incubation, funding, tax and regulatory benefits.",
+    "category": "Entrepreneurship",
+    "state": "All India",
+    "applyLink": "https://www.startupindia.gov.in"
+  },
+  {
+    "id": 11,
+    "title": "Atal Pension Yojana (APY)",
+    "description": "Pension scheme for workers in the unorganised sector with guaranteed minimum pension.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://npscra.nsdl.co.in"
+  },
+  {
+    "id": 12,
+    "title": "Sukanya Samriddhi Yojana",
+    "description": "Long-term small savings scheme for the girl child, encouraging parents to build a fund.",
+    "category": "Savings",
+    "state": "All India",
+    "applyLink": "https://www.india.gov.in"
+  },
+  {
+    "id": 13,
+    "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "description": "Skill training and certification to boost employability of youth.",
+    "category": "Skill Development",
+    "state": "All India",
+    "applyLink": "https://www.pmkvyofficial.org"
+  },
+  {
+    "id": 14,
+    "title": "National Rural Livelihood Mission (DAY-NRLM)",
+    "description": "Promotes self-employment and organization of rural poor into SHGs.",
+    "category": "Livelihood",
+    "state": "All India",
+    "applyLink": "https://aajeevika.gov.in"
+  },
+  {
+    "id": 15,
+    "title": "Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY)",
+    "description": "Rural electrification and improvement of rural electricity distribution.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://rggvy.gov.in"
+  },
+  {
+    "id": 16,
+    "title": "Swachh Bharat Mission (SBM)",
+    "description": "Nationwide campaign for sanitation, building toilets and ending open defecation.",
+    "category": "Sanitation",
+    "state": "All India",
+    "applyLink": "https://swachhbharatmission.gov.in"
+  },
+  {
+    "id": 17,
+    "title": "Jal Jeevan Mission",
+    "description": "Ensures functional household tap connections to all rural households.",
+    "category": "Water",
+    "state": "All India",
+    "applyLink": "https://jaljeevanmission.gov.in"
+  },
+  {
+    "id": 18,
+    "title": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "description": "Provides all-weather road connectivity to unconnected habitations in rural areas.",
+    "category": "Infrastructure",
+    "state": "All India",
+    "applyLink": "https://pmgsy.nic.in"
+  },
+  {
+    "id": 19,
+    "title": "National Food Security Mission (NFSM)",
+    "description": "Increases production of rice, wheat, pulses, coarse cereals and commercial crops.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://nfsm.gov.in"
+  },
+  {
+    "id": 20,
+    "title": "National Scholarship Portal",
+    "description": "Centralised portal to apply for multiple scholarships across central and state schemes.",
+    "category": "Education",
+    "state": "All India",
+    "applyLink": "https://scholarships.gov.in"
+  },
+  {
+    "id": 21,
+    "title": "Mid Day Meal Scheme (MDMS)",
+    "description": "Provides hot cooked meals to children in government and government-aided schools.",
+    "category": "Nutrition",
+    "state": "All India",
+    "applyLink": "https://mdm.nic.in"
+  },
+  {
+    "id": 22,
+    "title": "Integrated Child Development Services (ICDS)",
+    "description": "Supplementary nutrition, preschool education and health for children and mothers.",
+    "category": "Women & Child",
+    "state": "All India",
+    "applyLink": "https://icds-wcd.nic.in"
+  },
+  {
+    "id": 23,
+    "title": "PM KUSUM (Kisan Urja Suraksha evam Utthaan Mahabhiyan)",
+    "description": "Support for solarisation of farmers' pumps and decentralised renewable energy.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://mnre.gov.in"
+  },
+  {
+    "id": 24,
+    "title": "National Social Assistance Programme (NSAP)",
+    "description": "Provides social assistance benefits to senior citizens, widows and disabled persons.",
+    "category": "Social Welfare",
+    "state": "All India",
+    "applyLink": "https://nsap.nic.in"
+  },
+  {
+    "id": 25,
+    "title": "e-Shram",
+    "description": "National database of unorganised workers to extend welfare benefits and portability.",
+    "category": "Employment",
+    "state": "All India",
+    "applyLink": "https://eshram.gov.in"
+  },
+  {
+    "id": 26,
+    "title": "Pradhan Mantri Jan Arogya Yojana - Health & Wellness Centres (AB-HWCs)",
+    "description": "Strengthening primary healthcare via Health & Wellness Centres across the country.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://ab-hwc.nhp.gov.in"
+  },
+  {
+    "id": 27,
+    "title": "National Pension System (NPS) - Atal Pension related",
+    "description": "Voluntary, defined contribution pension system regulated by PFRDA.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://npscra.nsdl.co.in"
+  },
+  {
+    "id": 28,
+    "title": "Pradhan Mantri Shram Yogi Maan-dhan",
+    "description": "Pension scheme for unorganised sector workers, simple monthly contribution-based pension.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://maandhan.in"
+  },
+  {
+    "id": 29,
+    "title": "PM Svanidhi - Vendor Toolkits & Benefits",
+    "description": "Digital & financial literacy support for street vendors along with loans & benefits.",
+    "category": "Microcredit",
+    "state": "All India",
+    "applyLink": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": 30,
+    "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "description": "Maternity benefit program providing cash to pregnant and lactating women.",
+    "category": "Women & Child",
+    "state": "All India",
+    "applyLink": "https://pmjay.gov.in"
+  },
+  {
+    "id": 31,
+    "title": "PM Umeed - Skill & Self-Employment",
+    "description": "Central/state combined programs for entrepreneurship and self-employment training.",
+    "category": "Skill Development",
+    "state": "All India",
+    "applyLink": "https://www.skillindia.gov.in"
+  },
+  {
+    "id": 32,
+    "title": "Pradhan Mantri Swanidhi Yojana - Digital Training",
+    "description": "Digital training modules for street vendors and micro-entrepreneurs.",
+    "category": "Digital Literacy",
+    "state": "All India",
+    "applyLink": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": 33,
+    "title": "Pradhan Mantri Gram Sadak Yojana - Rural Road Upgrades",
+    "description": "Upgrading and maintaining rural roads for better connectivity and growth.",
+    "category": "Infrastructure",
+    "state": "All India",
+    "applyLink": "https://pmgsy.nic.in"
+  },
+  {
+    "id": 34,
+    "title": "National Livestock Mission",
+    "description": "Enhances livestock productivity and supports animal husbandry.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://mofpi.gov.in"
+  },
+  {
+    "id": 35,
+    "title": "Deen Dayal Upadhyaya Gram Jyoti Yojana - Solarization",
+    "description": "Promotes off-grid and solar solutions for rural electrification.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://rggvy.gov.in"
+  },
+  {
+    "id": 36,
+    "title": "Pradhan Mantri Jan Seva Kendra (Common Service Centres)",
+    "description": "Digital delivery of public services through CSCs in rural areas.",
+    "category": "Digital Services",
+    "state": "All India",
+    "applyLink": "https://www.csc.gov.in"
+  },
+  {
+    "id": 37,
+    "title": "National Digital Health Mission - Ayushman Bharat Health Data",
+    "description": "Digital health IDs and health records for citizens.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://abdm.gov.in"
+  },
+  {
+    "id": 38,
+    "title": "PM Poshan (formerly Mid Day Meal Scheme modernization)",
+    "description": "Nutritional support and mid-day meals for school students with improved quality.",
+    "category": "Nutrition",
+    "state": "All India",
+    "applyLink": "https://mdm.nic.in"
+  },
+  {
+    "id": 39,
+    "title": "National Urban Livelihoods Mission (DAY-NULM)",
+    "description": "Supports urban poor through self-employment and skill development programs.",
+    "category": "Livelihood",
+    "state": "All India",
+    "applyLink": "https://nulm.gov.in"
+  },
+  {
+    "id": 40,
+    "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana (Saubhagya)",
+    "description": "Household electrification scheme to provide electricity connections.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://saubhagya.gov.in"
+  },
+  {
+    "id": 41,
+    "title": "National Apprenticeship Promotion Scheme (NAPS)",
+    "description": "Provides financial support to establishments for engaging apprentices.",
+    "category": "Skill Development",
+    "state": "All India",
+    "applyLink": "https://www.apprenticeshipindia.gov.in"
+  },
+  {
+    "id": 42,
+    "title": "Pradhan Mantri Gramin Awaas Mission - PMAY-G",
+    "description": "Rural housing for houseless and homeless people with financial support.",
+    "category": "Housing",
+    "state": "All India",
+    "applyLink": "https://pmayg.nic.in"
+  },
+  {
+    "id": 43,
+    "title": "National Heritage Mission - Cultural Schemes",
+    "description": "Support for preservation and promotion of cultural heritage and historic sites.",
+    "category": "Culture",
+    "state": "All India",
+    "applyLink": "https://indiaculture.nic.in"
+  },
+  {
+    "id": 44,
+    "title": "Pradhan Mantri Gram Sadak Yojana - Maintenance",
+    "description": "Ongoing maintenance and quality improvement for rural roads.",
+    "category": "Infrastructure",
+    "state": "All India",
+    "applyLink": "https://pmgsy.nic.in"
+  },
+  {
+    "id": 45,
+    "title": "PM Kisan Maan Dhan Yojana - Pension For Farmers",
+    "description": "Voluntary pension scheme for small and marginal farmers.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://www.pmkisan.gov.in"
+  },
+  {
+    "id": 46,
+    "title": "National e-Governance Plan (NeGP)",
+    "description": "Framework to make all government services available to the public electronically.",
+    "category": "Digital Services",
+    "state": "All India",
+    "applyLink": "https://www.digitalindia.gov.in"
+  },
+  {
+    "id": 47,
+    "title": "Pradhan Mantri Sahaj Ration Yojana (e-Ration/DBT) - State Linked",
+    "description": "Direct benefit transfer of food subsidies via state distribution systems.",
+    "category": "Food Security",
+    "state": "All India",
+    "applyLink": "https://dfpd.gov.in"
+  },
+  {
+    "id": 48,
+    "title": "Pradhan Mantri Awas Yojana - Beneficiary Led Construction (BLC)",
+    "description": "Financial assistance for construction/upgradation of houses by beneficiaries.",
+    "category": "Housing",
+    "state": "All India",
+    "applyLink": "https://pmaymis.gov.in"
+  },
+  {
+    "id": 49,
+    "title": "Mission Indradhanush (Universal Immunization Programme strengthening)",
+    "description": "Accelerated immunisation program to increase vaccine coverage.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://nhm.gov.in"
+  },
+  {
+    "id": 50,
+    "title": "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+    "description": "Support clusters of micro food processing enterprises with credit and technology.",
+    "category": "Micro Industry",
+    "state": "All India",
+    "applyLink": "https://pmefpmefo.gov.in"
+  },
+  {
+    "id": 51,
+    "title": "Lakshmir Bhandar (West Bengal)",
+    "description": "Monthly direct benefit transfer to women beneficiaries in West Bengal.",
+    "category": "Social Welfare",
+    "state": "West Bengal",
+    "applyLink": "https://wb.gov.in"
+  },
+  {
+    "id": 52,
+    "title": "Kanyashree Prakalpa (West Bengal)",
+    "description": "Conditional cash transfer scheme to promote education and delay marriage of girls.",
+    "category": "Education",
+    "state": "West Bengal",
+    "applyLink": "https://wbkanyashree.gov.in"
+  },
+  {
+    "id": 53,
+    "title": "Swasthya Sathi (West Bengal)",
+    "description": "Health insurance for families with smart card-based cashless treatment.",
+    "category": "Health",
+    "state": "West Bengal",
+    "applyLink": "https://swasthyasathi.gov.in"
+  },
+  {
+    "id": 54,
+    "title": "Rupashree (West Bengal)",
+    "description": "One-time grant for marriage of adult girls from disadvantaged families.",
+    "category": "Social Welfare",
+    "state": "West Bengal",
+    "applyLink": "https://wb.gov.in"
+  },
+  {
+    "id": 55,
+    "title": "Sabooj Sathi (West Bengal)",
+    "description": "Free bicycle scheme for secondary & higher secondary students.",
+    "category": "Education",
+    "state": "West Bengal",
+    "applyLink": "https://wbsaboojshathi.gov.in"
+  },
+  {
+    "id": 56,
+    "title": "Kushal Yuva (Bihar)",
+    "description": "Skill development and placement assistance for Bihar youth.",
+    "category": "Skill Development",
+    "state": "Bihar",
+    "applyLink": "https://skillmissionbihar.org"
+  },
+  {
+    "id": 57,
+    "title": "Mukhyamantri Kanya Utthan Yojana (Bihar)",
+    "description": "Financial assistance and scholarships for girl child education in Bihar.",
+    "category": "Education",
+    "state": "Bihar",
+    "applyLink": "https://state.bihar.gov.in"
+  },
+  {
+    "id": 58,
+    "title": "Bihar Student Credit Card",
+    "description": "Education loan facility for higher education for Bihar students.",
+    "category": "Education Finance",
+    "state": "Bihar",
+    "applyLink": "https://www.7nischay-yuvaupmission.bihar.gov.in"
+  },
+  {
+    "id": 59,
+    "title": "KALIA (Krushak Assistance for Livelihood & Income Augmentation) - Odisha",
+    "description": "Support for cultivators, landless agricultural households and vulnerable agricultural families.",
+    "category": "Agriculture",
+    "state": "Odisha",
+    "applyLink": "https://kalia.odisha.gov.in"
+  },
+  {
+    "id": 60,
+    "title": "Biju Swasthya Kalyan Yojana (BSKY) - Odisha",
+    "description": "Health coverage scheme for Odisha residents, including cashless tertiary care.",
+    "category": "Health",
+    "state": "Odisha",
+    "applyLink": "https://bsky.odisha.gov.in"
+  },
+  {
+    "id": 61,
+    "title": "Delhi Ration e-Coupon",
+    "description": "Ration support and e-coupons for eligible residents in Delhi.",
+    "category": "Food Security",
+    "state": "Delhi",
+    "applyLink": "https://ration.jantasamvad.org"
+  },
+  {
+    "id": 62,
+    "title": "Delhi Scholarship Portal",
+    "description": "Scholarships for students of Delhi for various categories and courses.",
+    "category": "Education",
+    "state": "Delhi",
+    "applyLink": "https://edistrict.delhigovt.nic.in"
+  },
+  {
+    "id": 63,
+    "title": "MahaDBT Scholarships (Maharashtra)",
+    "description": "Direct Benefit Transfer portal for scholarships and citizen schemes in Maharashtra.",
+    "category": "Education",
+    "state": "Maharashtra",
+    "applyLink": "https://mahadbt.maharashtra.gov.in"
+  },
+  {
+    "id": 64,
+    "title": "Mahatma Jyotirao Phule Jan Arogya Yojana (Maharashtra)",
+    "description": "State health insurance scheme providing coverage to eligible families.",
+    "category": "Health",
+    "state": "Maharashtra",
+    "applyLink": "https://mjpjay.gov.in"
+  },
+  {
+    "id": 65,
+    "title": "Chief Minister Rojgar Yojana (Tamil Nadu - example)",
+    "description": "State-level employment generation and training support (varies by state).",
+    "category": "Employment",
+    "state": "Tamil Nadu",
+    "applyLink": "https://tn.gov.in"
+  },
+  {
+    "id": 66,
+    "title": "Anna Bhagya / Public Distribution System (State linked)",
+    "description": "Subsidised foodgrain distribution via ration cards and PDS networks (state portals).",
+    "category": "Food Security",
+    "state": "All India",
+    "applyLink": "https://dfpd.gov.in"
+  },
+  {
+    "id": 67,
+    "title": "PM Kisan Credit Card (KCC)",
+    "description": "Crop and agriculture loan card for easy access to credit for farmers.",
+    "category": "Agriculture Finance",
+    "state": "All India",
+    "applyLink": "https://pmkisan.gov.in"
+  },
+  {
+    "id": 68,
+    "title": "National Scholarship Portal - Merit & Means",
+    "description": "Apply for central and state scholarships from a single portal.",
+    "category": "Education",
+    "state": "All India",
+    "applyLink": "https://scholarships.gov.in"
+  },
+  {
+    "id": 69,
+    "title": "National AYUSH Mission",
+    "description": "Promotes AYUSH systems of medicine and provides health services through AYUSH clinics.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://www.ayush.gov.in"
+  },
+  {
+    "id": 70,
+    "title": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+    "description": "Pension scheme for unorganised sector workers, providing minimum guaranteed pension.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://maandhan.in"
+  },[
+  {
+    "id": 1,
+    "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "description": "Financial inclusion program — zero-balance bank accounts, Rupay card and insurance benefits.",
+    "category": "Financial Inclusion",
+    "state": "All India",
+    "applyLink": "https://pmjdy.gov.in"
+  },
+  {
+    "id": 2,
+    "title": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "description": "Health coverage up to ₹5 lakh per family for secondary and tertiary hospitalisation.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://pmjay.gov.in"
+  },
+  {
+    "id": 3,
+    "title": "Pradhan Mantri Awas Yojana (PMAY) - Urban & Gramin",
+    "description": "Affordable housing for eligible beneficiaries in urban and rural areas.",
+    "category": "Housing",
+    "state": "All India",
+    "applyLink": "https://pmaymis.gov.in"
+  },
+  {
+    "id": 4,
+    "title": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "Free LPG connections for women from BPL households to reduce indoor pollution.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://pmuy.gov.in"
+  },
+  {
+    "id": 5,
+    "title": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "description": "Direct income support to farmer families of ₹6,000 per year in three equal instalments.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://pmkisan.gov.in"
+  },
+  {
+    "id": 6,
+    "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance scheme to protect farmers against crop failure.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://pmfby.gov.in"
+  },
+  {
+    "id": 7,
+    "title": "PM SVANidhi (Street Vendor's Atmanirbhar Nidhi)",
+    "description": "Affordable loan facility for street vendors to restart businesses post-COVID.",
+    "category": "Microcredit",
+    "state": "All India",
+    "applyLink": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": 8,
+    "title": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Loans up to ₹10 lakh to non-corporate, non-farm micro and small enterprises.",
+    "category": "Finance",
+    "state": "All India",
+    "applyLink": "https://www.mudra.org.in"
+  },
+  {
+    "id": 9,
+    "title": "Stand Up India",
+    "description": "Facilitates bank loans between ₹10 lakh and ₹1 crore to SC/ST and women entrepreneurs.",
+    "category": "Entrepreneurship",
+    "state": "All India",
+    "applyLink": "https://www.standupmitra.in"
+  },
+  {
+    "id": 10,
+    "title": "Startup India",
+    "description": "Support for startups with incubation, funding, tax and regulatory benefits.",
+    "category": "Entrepreneurship",
+    "state": "All India",
+    "applyLink": "https://www.startupindia.gov.in"
+  },
+  {
+    "id": 11,
+    "title": "Atal Pension Yojana (APY)",
+    "description": "Pension scheme for workers in the unorganised sector with guaranteed minimum pension.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://npscra.nsdl.co.in"
+  },
+  {
+    "id": 12,
+    "title": "Sukanya Samriddhi Yojana",
+    "description": "Long-term small savings scheme for the girl child, encouraging parents to build a fund.",
+    "category": "Savings",
+    "state": "All India",
+    "applyLink": "https://www.india.gov.in"
+  },
+  {
+    "id": 13,
+    "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "description": "Skill training and certification to boost employability of youth.",
+    "category": "Skill Development",
+    "state": "All India",
+    "applyLink": "https://www.pmkvyofficial.org"
+  },
+  {
+    "id": 14,
+    "title": "National Rural Livelihood Mission (DAY-NRLM)",
+    "description": "Promotes self-employment and organization of rural poor into SHGs.",
+    "category": "Livelihood",
+    "state": "All India",
+    "applyLink": "https://aajeevika.gov.in"
+  },
+  {
+    "id": 15,
+    "title": "Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY)",
+    "description": "Rural electrification and improvement of rural electricity distribution.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://rggvy.gov.in"
+  },
+  {
+    "id": 16,
+    "title": "Swachh Bharat Mission (SBM)",
+    "description": "Nationwide campaign for sanitation, building toilets and ending open defecation.",
+    "category": "Sanitation",
+    "state": "All India",
+    "applyLink": "https://swachhbharatmission.gov.in"
+  },
+  {
+    "id": 17,
+    "title": "Jal Jeevan Mission",
+    "description": "Ensures functional household tap connections to all rural households.",
+    "category": "Water",
+    "state": "All India",
+    "applyLink": "https://jaljeevanmission.gov.in"
+  },
+  {
+    "id": 18,
+    "title": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "description": "Provides all-weather road connectivity to unconnected habitations in rural areas.",
+    "category": "Infrastructure",
+    "state": "All India",
+    "applyLink": "https://pmgsy.nic.in"
+  },
+  {
+    "id": 19,
+    "title": "National Food Security Mission (NFSM)",
+    "description": "Increases production of rice, wheat, pulses, coarse cereals and commercial crops.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://nfsm.gov.in"
+  },
+  {
+    "id": 20,
+    "title": "National Scholarship Portal",
+    "description": "Centralised portal to apply for multiple scholarships across central and state schemes.",
+    "category": "Education",
+    "state": "All India",
+    "applyLink": "https://scholarships.gov.in"
+  },
+  {
+    "id": 21,
+    "title": "Mid Day Meal Scheme (MDMS)",
+    "description": "Provides hot cooked meals to children in government and government-aided schools.",
+    "category": "Nutrition",
+    "state": "All India",
+    "applyLink": "https://mdm.nic.in"
+  },
+  {
+    "id": 22,
+    "title": "Integrated Child Development Services (ICDS)",
+    "description": "Supplementary nutrition, preschool education and health for children and mothers.",
+    "category": "Women & Child",
+    "state": "All India",
+    "applyLink": "https://icds-wcd.nic.in"
+  },
+  {
+    "id": 23,
+    "title": "PM KUSUM (Kisan Urja Suraksha evam Utthaan Mahabhiyan)",
+    "description": "Support for solarisation of farmers' pumps and decentralised renewable energy.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://mnre.gov.in"
+  },
+  {
+    "id": 24,
+    "title": "National Social Assistance Programme (NSAP)",
+    "description": "Provides social assistance benefits to senior citizens, widows and disabled persons.",
+    "category": "Social Welfare",
+    "state": "All India",
+    "applyLink": "https://nsap.nic.in"
+  },
+  {
+    "id": 25,
+    "title": "e-Shram",
+    "description": "National database of unorganised workers to extend welfare benefits and portability.",
+    "category": "Employment",
+    "state": "All India",
+    "applyLink": "https://eshram.gov.in"
+  },
+  {
+    "id": 26,
+    "title": "Pradhan Mantri Jan Arogya Yojana - Health & Wellness Centres (AB-HWCs)",
+    "description": "Strengthening primary healthcare via Health & Wellness Centres across the country.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://ab-hwc.nhp.gov.in"
+  },
+  {
+    "id": 27,
+    "title": "National Pension System (NPS) - Atal Pension related",
+    "description": "Voluntary, defined contribution pension system regulated by PFRDA.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://npscra.nsdl.co.in"
+  },
+  {
+    "id": 28,
+    "title": "Pradhan Mantri Shram Yogi Maan-dhan",
+    "description": "Pension scheme for unorganised sector workers, simple monthly contribution-based pension.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://maandhan.in"
+  },
+  {
+    "id": 29,
+    "title": "PM Svanidhi - Vendor Toolkits & Benefits",
+    "description": "Digital & financial literacy support for street vendors along with loans & benefits.",
+    "category": "Microcredit",
+    "state": "All India",
+    "applyLink": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": 30,
+    "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "description": "Maternity benefit program providing cash to pregnant and lactating women.",
+    "category": "Women & Child",
+    "state": "All India",
+    "applyLink": "https://pmjay.gov.in"
+  },
+  {
+    "id": 31,
+    "title": "PM Umeed - Skill & Self-Employment",
+    "description": "Central/state combined programs for entrepreneurship and self-employment training.",
+    "category": "Skill Development",
+    "state": "All India",
+    "applyLink": "https://www.skillindia.gov.in"
+  },
+  {
+    "id": 32,
+    "title": "Pradhan Mantri Swanidhi Yojana - Digital Training",
+    "description": "Digital training modules for street vendors and micro-entrepreneurs.",
+    "category": "Digital Literacy",
+    "state": "All India",
+    "applyLink": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": 33,
+    "title": "Pradhan Mantri Gram Sadak Yojana - Rural Road Upgrades",
+    "description": "Upgrading and maintaining rural roads for better connectivity and growth.",
+    "category": "Infrastructure",
+    "state": "All India",
+    "applyLink": "https://pmgsy.nic.in"
+  },
+  {
+    "id": 34,
+    "title": "National Livestock Mission",
+    "description": "Enhances livestock productivity and supports animal husbandry.",
+    "category": "Agriculture",
+    "state": "All India",
+    "applyLink": "https://mofpi.gov.in"
+  },
+  {
+    "id": 35,
+    "title": "Deen Dayal Upadhyaya Gram Jyoti Yojana - Solarization",
+    "description": "Promotes off-grid and solar solutions for rural electrification.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://rggvy.gov.in"
+  },
+  {
+    "id": 36,
+    "title": "Pradhan Mantri Jan Seva Kendra (Common Service Centres)",
+    "description": "Digital delivery of public services through CSCs in rural areas.",
+    "category": "Digital Services",
+    "state": "All India",
+    "applyLink": "https://www.csc.gov.in"
+  },
+  {
+    "id": 37,
+    "title": "National Digital Health Mission - Ayushman Bharat Health Data",
+    "description": "Digital health IDs and health records for citizens.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://abdm.gov.in"
+  },
+  {
+    "id": 38,
+    "title": "PM Poshan (formerly Mid Day Meal Scheme modernization)",
+    "description": "Nutritional support and mid-day meals for school students with improved quality.",
+    "category": "Nutrition",
+    "state": "All India",
+    "applyLink": "https://mdm.nic.in"
+  },
+  {
+    "id": 39,
+    "title": "National Urban Livelihoods Mission (DAY-NULM)",
+    "description": "Supports urban poor through self-employment and skill development programs.",
+    "category": "Livelihood",
+    "state": "All India",
+    "applyLink": "https://nulm.gov.in"
+  },
+  {
+    "id": 40,
+    "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana (Saubhagya)",
+    "description": "Household electrification scheme to provide electricity connections.",
+    "category": "Energy",
+    "state": "All India",
+    "applyLink": "https://saubhagya.gov.in"
+  },
+  {
+    "id": 41,
+    "title": "National Apprenticeship Promotion Scheme (NAPS)",
+    "description": "Provides financial support to establishments for engaging apprentices.",
+    "category": "Skill Development",
+    "state": "All India",
+    "applyLink": "https://www.apprenticeshipindia.gov.in"
+  },
+  {
+    "id": 42,
+    "title": "Pradhan Mantri Gramin Awaas Mission - PMAY-G",
+    "description": "Rural housing for houseless and homeless people with financial support.",
+    "category": "Housing",
+    "state": "All India",
+    "applyLink": "https://pmayg.nic.in"
+  },
+  {
+    "id": 43,
+    "title": "National Heritage Mission - Cultural Schemes",
+    "description": "Support for preservation and promotion of cultural heritage and historic sites.",
+    "category": "Culture",
+    "state": "All India",
+    "applyLink": "https://indiaculture.nic.in"
+  },
+  {
+    "id": 44,
+    "title": "Pradhan Mantri Gram Sadak Yojana - Maintenance",
+    "description": "Ongoing maintenance and quality improvement for rural roads.",
+    "category": "Infrastructure",
+    "state": "All India",
+    "applyLink": "https://pmgsy.nic.in"
+  },
+  {
+    "id": 45,
+    "title": "PM Kisan Maan Dhan Yojana - Pension For Farmers",
+    "description": "Voluntary pension scheme for small and marginal farmers.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://www.pmkisan.gov.in"
+  },
+  {
+    "id": 46,
+    "title": "National e-Governance Plan (NeGP)",
+    "description": "Framework to make all government services available to the public electronically.",
+    "category": "Digital Services",
+    "state": "All India",
+    "applyLink": "https://www.digitalindia.gov.in"
+  },
+  {
+    "id": 47,
+    "title": "Pradhan Mantri Sahaj Ration Yojana (e-Ration/DBT) - State Linked",
+    "description": "Direct benefit transfer of food subsidies via state distribution systems.",
+    "category": "Food Security",
+    "state": "All India",
+    "applyLink": "https://dfpd.gov.in"
+  },
+  {
+    "id": 48,
+    "title": "Pradhan Mantri Awas Yojana - Beneficiary Led Construction (BLC)",
+    "description": "Financial assistance for construction/upgradation of houses by beneficiaries.",
+    "category": "Housing",
+    "state": "All India",
+    "applyLink": "https://pmaymis.gov.in"
+  },
+  {
+    "id": 49,
+    "title": "Mission Indradhanush (Universal Immunization Programme strengthening)",
+    "description": "Accelerated immunisation program to increase vaccine coverage.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://nhm.gov.in"
+  },
+  {
+    "id": 50,
+    "title": "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+    "description": "Support clusters of micro food processing enterprises with credit and technology.",
+    "category": "Micro Industry",
+    "state": "All India",
+    "applyLink": "https://pmefpmefo.gov.in"
+  },
+  {
+    "id": 51,
+    "title": "Lakshmir Bhandar (West Bengal)",
+    "description": "Monthly direct benefit transfer to women beneficiaries in West Bengal.",
+    "category": "Social Welfare",
+    "state": "West Bengal",
+    "applyLink": "https://wb.gov.in"
+  },
+  {
+    "id": 52,
+    "title": "Kanyashree Prakalpa (West Bengal)",
+    "description": "Conditional cash transfer scheme to promote education and delay marriage of girls.",
+    "category": "Education",
+    "state": "West Bengal",
+    "applyLink": "https://wbkanyashree.gov.in"
+  },
+  {
+    "id": 53,
+    "title": "Swasthya Sathi (West Bengal)",
+    "description": "Health insurance for families with smart card-based cashless treatment.",
+    "category": "Health",
+    "state": "West Bengal",
+    "applyLink": "https://swasthyasathi.gov.in"
+  },
+  {
+    "id": 54,
+    "title": "Rupashree (West Bengal)",
+    "description": "One-time grant for marriage of adult girls from disadvantaged families.",
+    "category": "Social Welfare",
+    "state": "West Bengal",
+    "applyLink": "https://wb.gov.in"
+  },
+  {
+    "id": 55,
+    "title": "Sabooj Sathi (West Bengal)",
+    "description": "Free bicycle scheme for secondary & higher secondary students.",
+    "category": "Education",
+    "state": "West Bengal",
+    "applyLink": "https://wbsaboojshathi.gov.in"
+  },
+  {
+    "id": 56,
+    "title": "Kushal Yuva (Bihar)",
+    "description": "Skill development and placement assistance for Bihar youth.",
+    "category": "Skill Development",
+    "state": "Bihar",
+    "applyLink": "https://skillmissionbihar.org"
+  },
+  {
+    "id": 57,
+    "title": "Mukhyamantri Kanya Utthan Yojana (Bihar)",
+    "description": "Financial assistance and scholarships for girl child education in Bihar.",
+    "category": "Education",
+    "state": "Bihar",
+    "applyLink": "https://state.bihar.gov.in"
+  },
+  {
+    "id": 58,
+    "title": "Bihar Student Credit Card",
+    "description": "Education loan facility for higher education for Bihar students.",
+    "category": "Education Finance",
+    "state": "Bihar",
+    "applyLink": "https://www.7nischay-yuvaupmission.bihar.gov.in"
+  },
+  {
+    "id": 59,
+    "title": "KALIA (Krushak Assistance for Livelihood & Income Augmentation) - Odisha",
+    "description": "Support for cultivators, landless agricultural households and vulnerable agricultural families.",
+    "category": "Agriculture",
+    "state": "Odisha",
+    "applyLink": "https://kalia.odisha.gov.in"
+  },
+  {
+    "id": 60,
+    "title": "Biju Swasthya Kalyan Yojana (BSKY) - Odisha",
+    "description": "Health coverage scheme for Odisha residents, including cashless tertiary care.",
+    "category": "Health",
+    "state": "Odisha",
+    "applyLink": "https://bsky.odisha.gov.in"
+  },
+  {
+    "id": 61,
+    "title": "Delhi Ration e-Coupon",
+    "description": "Ration support and e-coupons for eligible residents in Delhi.",
+    "category": "Food Security",
+    "state": "Delhi",
+    "applyLink": "https://ration.jantasamvad.org"
+  },
+  {
+    "id": 62,
+    "title": "Delhi Scholarship Portal",
+    "description": "Scholarships for students of Delhi for various categories and courses.",
+    "category": "Education",
+    "state": "Delhi",
+    "applyLink": "https://edistrict.delhigovt.nic.in"
+  },
+  {
+    "id": 63,
+    "title": "MahaDBT Scholarships (Maharashtra)",
+    "description": "Direct Benefit Transfer portal for scholarships and citizen schemes in Maharashtra.",
+    "category": "Education",
+    "state": "Maharashtra",
+    "applyLink": "https://mahadbt.maharashtra.gov.in"
+  },
+  {
+    "id": 64,
+    "title": "Mahatma Jyotirao Phule Jan Arogya Yojana (Maharashtra)",
+    "description": "State health insurance scheme providing coverage to eligible families.",
+    "category": "Health",
+    "state": "Maharashtra",
+    "applyLink": "https://mjpjay.gov.in"
+  },
+  {
+    "id": 65,
+    "title": "Chief Minister Rojgar Yojana (Tamil Nadu - example)",
+    "description": "State-level employment generation and training support (varies by state).",
+    "category": "Employment",
+    "state": "Tamil Nadu",
+    "applyLink": "https://tn.gov.in"
+  },
+  {
+    "id": 66,
+    "title": "Anna Bhagya / Public Distribution System (State linked)",
+    "description": "Subsidised foodgrain distribution via ration cards and PDS networks (state portals).",
+    "category": "Food Security",
+    "state": "All India",
+    "applyLink": "https://dfpd.gov.in"
+  },
+  {
+    "id": 67,
+    "title": "PM Kisan Credit Card (KCC)",
+    "description": "Crop and agriculture loan card for easy access to credit for farmers.",
+    "category": "Agriculture Finance",
+    "state": "All India",
+    "applyLink": "https://pmkisan.gov.in"
+  },
+  {
+    "id": 68,
+    "title": "National Scholarship Portal - Merit & Means",
+    "description": "Apply for central and state scholarships from a single portal.",
+    "category": "Education",
+    "state": "All India",
+    "applyLink": "https://scholarships.gov.in"
+  },
+  {
+    "id": 69,
+    "title": "National AYUSH Mission",
+    "description": "Promotes AYUSH systems of medicine and provides health services through AYUSH clinics.",
+    "category": "Health",
+    "state": "All India",
+    "applyLink": "https://www.ayush.gov.in"
+  },
+  {
+    "id": 70,
+    "title": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+    "description": "Pension scheme for unorganised sector workers, providing minimum guaranteed pension.",
+    "category": "Pension",
+    "state": "All India",
+    "applyLink": "https://maandhan.in"
+  },
