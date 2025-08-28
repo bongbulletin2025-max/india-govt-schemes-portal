@@ -1,0 +1,287 @@
+{
+  "schemes": [
+    {
+      "id": 1,
+      "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+      "category": "Finance",
+      "state": "All India",
+      "apply_link": "https://pmjdy.gov.in"
+    },
+    {
+      "id": 2,
+      "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "Women Welfare",
+      "state": "All India",
+      "apply_link": "https://www.pmuy.gov.in"
+    },
+    {
+      "id": 3,
+      "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+      "category": "Health",
+      "state": "All India",
+      "apply_link": "https://pmjay.gov.in"
+    },
+    {
+      "id": 4,
+      "name": "Pradhan Mantri Awas Yojana (PMAY) – Gramin & Urban",
+      "category": "Housing",
+      "state": "All India",
+      "apply_link": "https://pmaymis.gov.in"
+    },
+    {
+      "id": 5,
+      "name": "Atal Pension Yojana (APY)",
+      "category": "Pension",
+      "state": "All India",
+      "apply_link": "https://www.npscra.nsdl.co.in/nsdl-atal-pension-yojana.php"
+    },
+    {
+      "id": 6,
+      "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "Agriculture",
+      "state": "All India",
+      "apply_link": "https://pmkisan.gov.in"
+    },
+    {
+      "id": 7,
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "category": "Agriculture",
+      "state": "All India",
+      "apply_link": "https://pmfby.gov.in"
+    },
+    {
+      "id": 8,
+      "name": "Digital India Initiative",
+      "category": "Digital/IT",
+      "state": "All India",
+      "apply_link": "https://www.digitalindia.gov.in"
+    },
+    {
+      "id": 9,
+      "name": "Startup India",
+      "category": "Entrepreneurship",
+      "state": "All India",
+      "apply_link": "https://www.startupindia.gov.in"
+    },
+    {
+      "id": 10,
+      "name": "Stand Up India Scheme",
+      "category": "Entrepreneurship",
+      "state": "All India",
+      "apply_link": "https://www.standupmitra.in"
+    },
+    {
+      "id": 11,
+      "name": "Beti Bachao Beti Padhao (BBBP)",
+      "category": "Women & Child",
+      "state": "All India",
+      "apply_link": "https://wcd.nic.in/bbbp-scheme"
+    },
+    {
+      "id": 12,
+      "name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "Women & Child",
+      "state": "All India",
+      "apply_link": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
+    },
+    {
+      "id": 13,
+      "name": "Swachh Bharat Mission (SBM)",
+      "category": "Sanitation",
+      "state": "All India",
+      "apply_link": "https://swachhbharatmission.gov.in"
+    },
+    {
+      "id": 14,
+      "name": "National Rural Employment Guarantee Scheme (MGNREGA)",
+      "category": "Employment",
+      "state": "All India",
+      "apply_link": "https://nrega.nic.in"
+    },
+    {
+      "id": 15,
+      "name": "National Social Assistance Programme (NSAP)",
+      "category": "Social Welfare",
+      "state": "All India",
+      "apply_link": "https://nsap.nic.in"
+    },
+    {
+      "id": 16,
+      "name": "National Health Mission (NHM)",
+      "category": "Health",
+      "state": "All India",
+      "apply_link": "https://nhm.gov.in"
+    },
+    {
+      "id": 17,
+      "name": "Integrated Child Development Services (ICDS)",
+      "category": "Women & Child",
+      "state": "All India",
+      "apply_link": "https://icds-wcd.nic.in"
+    },
+    {
+      "id": 18,
+      "name": "National Food Security Mission (NFSM)",
+      "category": "Food Security",
+      "state": "All India",
+      "apply_link": "https://nfsm.gov.in"
+    },
+    {
+      "id": 19,
+      "name": "Mid Day Meal Scheme (MDMS)",
+      "category": "Education",
+      "state": "All India",
+      "apply_link": "https://mdm.nic.in"
+    },
+    {
+      "id": 20,
+      "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "Skill Development",
+      "state": "All India",
+      "apply_link": "https://www.pmkvyofficial.org"
+    }
+  ]
+}{
+  "schemes": [
+    {
+      "id": 1,
+      "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+      "category": "Finance",
+      "state": "All India",
+      "apply_link": "https://pmjdy.gov.in"
+    },
+    {
+      "id": 2,
+      "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "Women Welfare",
+      "state": "All India",
+      "apply_link": "https://www.pmuy.gov.in"
+    },
+    {
+      "id": 3,
+      "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+      "category": "Health",
+      "state": "All India",
+      "apply_link": "https://pmjay.gov.in"
+    },
+    {
+      "id": 4,
+      "name": "Pradhan Mantri Awas Yojana (PMAY) – Gramin & Urban",
+      "category": "Housing",
+      "state": "All India",
+      "apply_link": "https://pmaymis.gov.in"
+    },
+    {
+      "id": 5,
+      "name": "Atal Pension Yojana (APY)",
+      "category": "Pension",
+      "state": "All India",
+      "apply_link": "https://www.npscra.nsdl.co.in/nsdl-atal-pension-yojana.php"
+    },
+    {
+      "id": 6,
+      "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "category": "Agriculture",
+      "state": "All India",
+      "apply_link": "https://pmkisan.gov.in"
+    },
+    {
+      "id": 7,
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "category": "Agriculture",
+      "state": "All India",
+      "apply_link": "https://pmfby.gov.in"
+    },
+    {
+      "id": 8,
+      "name": "Digital India Initiative",
+      "category": "Digital/IT",
+      "state": "All India",
+      "apply_link": "https://www.digitalindia.gov.in"
+    },
+    {
+      "id": 9,
+      "name": "Startup India",
+      "category": "Entrepreneurship",
+      "state": "All India",
+      "apply_link": "https://www.startupindia.gov.in"
+    },
+    {
+      "id": 10,
+      "name": "Stand Up India Scheme",
+      "category": "Entrepreneurship",
+      "state": "All India",
+      "apply_link": "https://www.standupmitra.in"
+    },
+    {
+      "id": 11,
+      "name": "Beti Bachao Beti Padhao (BBBP)",
+      "category": "Women & Child",
+      "state": "All India",
+      "apply_link": "https://wcd.nic.in/bbbp-scheme"
+    },
+    {
+      "id": 12,
+      "name": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "Women & Child",
+      "state": "All India",
+      "apply_link": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
+    },
+    {
+      "id": 13,
+      "name": "Swachh Bharat Mission (SBM)",
+      "category": "Sanitation",
+      "state": "All India",
+      "apply_link": "https://swachhbharatmission.gov.in"
+    },
+    {
+      "id": 14,
+      "name": "National Rural Employment Guarantee Scheme (MGNREGA)",
+      "category": "Employment",
+      "state": "All India",
+      "apply_link": "https://nrega.nic.in"
+    },
+    {
+      "id": 15,
+      "name": "National Social Assistance Programme (NSAP)",
+      "category": "Social Welfare",
+      "state": "All India",
+      "apply_link": "https://nsap.nic.in"
+    },
+    {
+      "id": 16,
+      "name": "National Health Mission (NHM)",
+      "category": "Health",
+      "state": "All India",
+      "apply_link": "https://nhm.gov.in"
+    },
+    {
+      "id": 17,
+      "name": "Integrated Child Development Services (ICDS)",
+      "category": "Women & Child",
+      "state": "All India",
+      "apply_link": "https://icds-wcd.nic.in"
+    },
+    {
+      "id": 18,
+      "name": "National Food Security Mission (NFSM)",
+      "category": "Food Security",
+      "state": "All India",
+      "apply_link": "https://nfsm.gov.in"
+    },
+    {
+      "id": 19,
+      "name": "Mid Day Meal Scheme (MDMS)",
+      "category": "Education",
+      "state": "All India",
+      "apply_link": "https://mdm.nic.in"
+    },
+    {
+      "id": 20,
+      "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "Skill Development",
+      "state": "All India",
+      "apply_link": "https://www.pmkvyofficial.org"
+    }
+  ]
+}
