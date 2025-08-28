@@ -1,0 +1,15 @@
+{
+  "All": { "cm": { "name": "All States", "image": "./images/cm/default_cm.jpg" } },
+  "West Bengal": { "cm": { "name": "Mamata Banerjee", "image": "./images/cm/wb.jpg" } },
+  "Bihar":       { "cm": { "name": "Nitish Kumar",  "image": "./images/cm/br.jpg" } },
+  "Odisha":      { "cm": { "name": "(Odisha CM)",    "image": "./images/cm/or.jpg" } },
+  "Delhi":       { "cm": { "name": "(Delhi CM)",     "image": "./images/cm/dl.jpg" } },
+  "Maharashtra": { "cm": { "name": "(Maharashtra CM)","image": "./images/cm/mh.jpg" } }
+}{
+  "All": { "cm": { "name": "All States", "image": "./images/cm/default_cm.jpg" } },
+  "West Bengal": { "cm": { "name": "Mamata Banerjee", "image": "./images/cm/wb.jpg" } },
+  "Bihar":       { "cm": { "name": "Nitish Kumar",  "image": "./images/cm/br.jpg" } },
+  "Odisha":      { "cm": { "name": "(Odisha CM)",    "image": "./images/cm/or.jpg" } },
+  "Delhi":       { "cm": { "name": "(Delhi CM)",     "image": "./images/cm/dl.jpg" } },
+  "Maharashtra": { "cm": { "name": "(Maharashtra CM)","image": "./images/cm/mh.jpg" } }
+}
